@@ -30,12 +30,9 @@
 
 <h2 align="center">Layout 🎨</h2>
 <div align="center">
-<img src="https://github.com/marceloboas10/Meals/assets/67197423/f950b97c-9ec6-4e54-b6d3-ffaea3723350" width="250px" />
-<img src="https://github.com/marceloboas10/Meals/assets/67197423/7cde1d2c-b841-46f2-9d23-64d1b5287067" width="250px" />
-<img src="https://github.com/marceloboas10/Meals/assets/67197423/09a8214c-bee3-469a-b78e-2eb9e7a0f9c0" width="250px" />
-<img src="https://github.com/marceloboas10/Meals/assets/67197423/51a8818f-0628-43ad-be1e-cd72c6cc1383" width="250px" />
-<img src="https://github.com/marceloboas10/Meals/assets/67197423/2e2c48d9-e7fc-49e6-a5c7-7e42a458f63e" width="250px" />
-<img src="https://github.com/marceloboas10/Meals/assets/67197423/5c9e188e-f427-4156-8fd4-7678bf51393b" width="250px" />
+<img src="https://github.com/marceloboas10/alurabank_provider/assets/67197423/e3cfce78-c881-4c37-848e-8ab775ef1a28" width="250px" />
+<img src="https://github.com/marceloboas10/alurabank_provider/assets/67197423/f4dc822f-7128-4f6d-aafc-5eaf012ca50b" width="250px" />
+<img src="https://github.com/marceloboas10/alurabank_provider/assets/67197423/76951fd3-8c95-4ad1-a7d2-8d45325f6024" width="250px" />
 </div>
 
 ---
@@ -46,7 +43,7 @@
 
    ```
    - Clone esse repositório:
-   $ git clone https://github.com/marceloboas10/Alurabank
+   $ git clone https://github.com/marceloboas10/alurabank_provider
    - Entre no diretório:
    $ cd meals
 

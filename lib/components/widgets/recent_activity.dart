@@ -101,13 +101,6 @@ class _RecentActivityContent extends StatelessWidget {
         ),
         const Text(
             'Esse mês você gastou \$1500.00 com\njogos. Tente abaixar esse custo!'),
-        TextButton(
-          onPressed: () {},
-          child: const Text(
-            'Diga-me como',
-            style: TextStyle(color: Color(0xFFB20CBB), fontSize: 16),
-          ),
-        ),
       ],
     );
   }
